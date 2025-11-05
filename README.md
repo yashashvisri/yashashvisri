@@ -4,7 +4,7 @@
 <img align = "right" alt = "AI" width="400" src="https://scitechdaily.com/images/AI-Technology-Creation-Concept.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashashvisri&label=Profile%20views&color=0e75b6&style=flat" alt="yashashvisri" /> </p>
 
-- 🌱 I’m currently learning **Data Visualization, Machine Learning Algorithms, Data Science, Computer Vision and Data Structures with Java.**
+- 🌱 I’m currently learning **Data Visualization, Machine Learning Algorithms, Data Science, Computer Vision, Gen AI and Data Structures with Java.**
 
 - 📫 How to reach me **yashashvisrivastava674@gmail.com**
 
