@@ -11,7 +11,7 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=yashashvisri&label=Profile%20views&color=7B5CFF&style=for-the-badge&labelColor=0d1117" alt="Profile views" />
+<img src="https://api.visitorbadge.io/api/visitors?path=github.com%2Fyashashvisri&label=PROFILE%20VIEWS&labelColor=%230d1117&countColor=%237B5CFF&style=for-the-badge" alt="Profile views" />
 <img src="https://img.shields.io/github/followers/yashashvisri?style=for-the-badge&logo=github&color=00FFA3&labelColor=0d1117" alt="Followers" />
 
 </div>
