@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/hero.svg" width="100%" alt="Yashashvi Srivastava, AI Engineer · Python / Agentic AI · Kanpur, India" />
+<img src="hero.svg" width="100%" alt="Yashashvi Srivastava, AI Engineer · Python / Agentic AI · Kanpur, India" />
 
 <p>Building real-world AI and sharing the work in public.</p>
 <p><a href="https://github.com/yashashvisri">GitHub</a> &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/yashashvi-srivastava-681b35251">LinkedIn</a></p>
